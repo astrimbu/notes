@@ -4,10 +4,9 @@ aliases:
 tags: 
 title: Home
 ---
-**Focus**:  
+## Topics  
+- ML, AI, LLMs  
+- Art 𐌗 technology  
 
-ML, AI, LLMs  
-Art 𐌗 technology  
-
-**Todo**:  
+### Todo  
 - [ ] [[Asset pipeline write-up]]  
