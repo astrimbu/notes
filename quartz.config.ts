@@ -28,8 +28,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inconsolata",
-        body: "Inconsolata",
+        header: "Funnel Display",
+        body: "Uchen",
         code: "Space Mono",
       },
       colors: {
