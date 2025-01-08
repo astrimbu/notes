@@ -4,7 +4,7 @@ aliases:
 tags: 
 title: Home
 ---
-A space for notes.
+Notes, zettelkasten method
 
 [[Cache]]
 [[Videos]]

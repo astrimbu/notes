@@ -1,5 +1,3 @@
-A list of YouTube videos that I find particularly interesting or made me think.  
-
 Sorted by date of release.  
 
 ---
