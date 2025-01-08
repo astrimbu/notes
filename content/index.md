@@ -4,6 +4,7 @@ aliases:
 tags: 
 title: Home
 ---
-## Topics  
-- Pixel art, animations
-- Embedding space
+A space for notes.
+
+[[Cache]]
+[[Videos]]

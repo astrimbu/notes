@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "alan's notes",
+    pageTitle: "Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "astrimbu.github.io/research/",
+    baseUrl: "astrimbu.github.io/notes/",
     ignorePatterns: [
       "private",
       "templates",
