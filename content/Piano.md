@@ -1,0 +1,14 @@
+- Beethoven: Sonata Op. 13 No. 8 "Pathétique" *
+- Debussy: Clair de Lune *
+- Kapustin: Etude Op. 40 No. 6 "Pastorale" *
+- Rachmaninoff: Prelude Op. 3 No. 2 *
+- Rachmaninoff: Prelude Op. 23 No. 5 *
+- Beethoven: Für Elise
+- C.P.E. Bach: Solfeggietto
+- Chopin: Nocturne Op. 55 No. 1
+- Chopin: Prelude Op. 28 No. 15 "Raindrop"
+- Chopin: Prelude Op. 28 No. 20
+- Chopin: Waltz Op. 64 No. 1 "Minute"
+- Joplin: Bethena Waltz
+- Joplin: Maple Leaf Rag
+- Kolling: Op. 147 No. 2 "Flying Leaves"
