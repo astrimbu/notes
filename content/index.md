@@ -4,7 +4,7 @@ aliases:
 tags: 
 title: Home
 ---
-Notes, zettelkasten method
+
+Random notes, zettelkasten method
 
 [[Cache]]
-[[Videos]]
