@@ -1,6 +1,7 @@
 
 Ollama
 - `ollama run deepseek-r1:8b`
+- `~\.ollama\history`
 
 Cursor
 - Fold: `ctrl+M` `ctrl+0,1,2,3`
@@ -13,6 +14,10 @@ Quartz
 - Private pages
 	- quartz.config.ts > ignorePatterns  
 	- .gitignore  
+
+Venv
+- `./venv/Scripts/activate`
+- `deactivate`
 
 Vim
 - `:s/old/new/g`
